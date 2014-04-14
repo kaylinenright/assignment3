@@ -28,7 +28,7 @@ header {
 .logo {
     height: 4rem;
     width:auto;
-    margin: 1.5rem 10%
+    margin: 1.5rem 5%
 }
 
 .nav-top{
@@ -60,3 +60,24 @@ header {
     
 }
 
+.billboard {
+    overflow: hidden;
+    background-image:url(../images/Sheabutterloccitane.jpg);
+    background-color: white;
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-size: 40rem;
+
+}
+
+h1 { 
+    font-weight: normal;
+    font-size: 2.25rem;
+    background-color: rgba( 248, 108, 82, .85);
+    opacity: 75%;
+    text-transform: uppercase; 
+    letter-spacing: -.1rem;
+    margin: 6rem 0;
+    padding: .25rem 5%;
+    
+}
