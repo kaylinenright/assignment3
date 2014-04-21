@@ -84,8 +84,7 @@ body {
     padding: .25rem 5%;
 }
 h1 {
-    font-family: Helvetica;
-    "san-serif; 
+    font-family: "Helvetica", "san-serif"; 
     font-weight: normal;
     font-size: 2rem;
     opacity: 75%;
@@ -112,8 +111,7 @@ h1 {
     width: 50%;
     margin: 0 0 2%;
     padding: 0;
-    font-family: Gilda Display;
-    "Times New Roman", "serif; 
+    font-family: "Gilda Display", "Times New Roman", serif; 
     font-size: 1rem;
     font-weight: normal;
     line-height: 1.3rem;
@@ -127,8 +125,7 @@ h1 {
     text-align: center;
 }
 .product p {
-    font-family: Gilda Display;
-    "Times New Roman", "serif; 
+    font-family: "Gilda Display", "Times New Roman", "serif"; 
  font-size: .75rem;
     font-weight: normal;
     line-height: 1.5rem;
@@ -140,8 +137,7 @@ h1 {
     display: inline;
 }
 h2 {
-    font-family: Helvetica;
-    "san-serif; 
+    font-family: "Helvetica", "san-serif"; 
     font-weight: normal;
     font-size: 1.5rem;
     margin: 2%;
@@ -160,8 +156,7 @@ h3 {
     line-height: 2.5rem
 }
 p {
-    font-family: Gilda Display;
-    "Times New Roman", "serif; 
+    font-family: Gilda Display, Times New Roman, serif; 
  font-size: 1.5rem;
     font-weight: normal;
     line-height: 1.7rem;
@@ -187,8 +182,7 @@ p {
     width: 50%;
     margin: 0 0 2%;
     padding: 0;
-    font-family: Gilda Display;
-    "Times New Roman", "serif; 
+    font-family: Gilda Display, Times New Roman, serif; 
  font-size: 1rem;
     font-weight: normal;
     line-height: 1.3rem;
